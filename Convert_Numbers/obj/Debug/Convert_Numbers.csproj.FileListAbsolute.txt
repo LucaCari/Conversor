@@ -1,0 +1,9 @@
+C:\Users\Luca Cariolin\Desktop\Convert_Numbers\Convert_Numbers\bin\Debug\Convert_Numbers.exe.config
+C:\Users\Luca Cariolin\Desktop\Convert_Numbers\Convert_Numbers\bin\Debug\Convert_Numbers.exe
+C:\Users\Luca Cariolin\Desktop\Convert_Numbers\Convert_Numbers\bin\Debug\Convert_Numbers.pdb
+C:\Users\Luca Cariolin\Desktop\Convert_Numbers\Convert_Numbers\obj\Debug\Convert_Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Luca Cariolin\Desktop\Convert_Numbers\Convert_Numbers\obj\Debug\Convert_Numbers.Properties.Resources.resources
+C:\Users\Luca Cariolin\Desktop\Convert_Numbers\Convert_Numbers\obj\Debug\Convert_Numbers.csproj.GenerateResource.Cache
+C:\Users\Luca Cariolin\Desktop\Convert_Numbers\Convert_Numbers\obj\Debug\Convert_Numbers.exe
+C:\Users\Luca Cariolin\Desktop\Convert_Numbers\Convert_Numbers\obj\Debug\Convert_Numbers.pdb
+C:\Users\Luca Cariolin\Desktop\Convert_Numbers\Convert_Numbers\obj\Debug\Convert_Numbers.frmConversor.resources
