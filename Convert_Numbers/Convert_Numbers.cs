@@ -8,6 +8,7 @@ namespace Convert_Numbers
 {
     class Convert_Numbers
     {
+		//Classe para conversão 
         public string binaryNumber { get; set; }
 
         public string binaryToHex()
