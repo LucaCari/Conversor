@@ -25,6 +25,10 @@ namespace Convert_Numbers
             {
                 MessageBox.Show("Selecione o tipo de entrada: ", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
+			else if (txtNumber.Text.Trim() == "")
+			{
+				MessageBox.Show("Digite o valor: ", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+			}
             else
             {
                 if (cboType.Text == "Binário")
