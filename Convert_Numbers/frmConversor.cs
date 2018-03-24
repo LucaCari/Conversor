@@ -23,7 +23,7 @@ namespace Convert_Numbers
         {
             if (cboType.Text.Trim() == "")
             {
-                MessageBox.Show("Selecione o tipo de entrada: ", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                MessageBox.Show("Selecione o tipo de entrada no combo de opções: ", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
             else
             {
