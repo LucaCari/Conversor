@@ -17,7 +17,7 @@ namespace Convert_Numbers
             InitializeComponent();
         }
         Convert_Numbers c = new Convert_Numbers();
-     
+		//Tela do Conversor
 
         private void btnCalc_Click(object sender, EventArgs e)
         {
